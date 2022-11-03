@@ -606,6 +606,11 @@ ul.slick-dots {
   margin-top: 85px;
 }
 
+.services .service-item {
+  background-color: #f7f7f7;
+  height: 100%;
+}
+
 .service-item img {
   width: 100%;
   overflow: hidden;
